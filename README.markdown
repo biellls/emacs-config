@@ -20,3 +20,7 @@ This repo is a minor extension of [The Emacs Starter Kit, v2](https://github.com
     * ac-nrepl
 
 You can see all these tweaks in init.el and user.el
+
+* Other installed packages:
+    * evil-mode (vim)
+
