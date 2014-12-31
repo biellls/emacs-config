@@ -23,4 +23,5 @@ You can see all these tweaks in init.el and user.el
 
 * Other installed packages:
     * evil-mode (vim)
+    * auto-complete
 
