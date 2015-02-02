@@ -19,6 +19,19 @@
 (require 'auto-complete-config)
 (ac-config-default)
 
+;; Mac os x mode
+(setq default-input-method "MacOSX")
+(setq mac-command-modifier 'meta)
+(setq mac-option-modifier 'none)
+(setq mac-allow-anti-aliasing t)
+
+;; Define + active modification to compile that locally sets
+;; shell-command-switch to "-ic".
+(defadvice compile (around use-bashrc activate)
+  "Load .bashrc in any calls to bash (e.g. so we can use aliases)"
+  (let ((shell-command-switch "-ic"))
+    ad-do-it))
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -34,3 +47,4 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+(set-face-attribute 'region nil :background "#111" :foreground "#aaaaff")

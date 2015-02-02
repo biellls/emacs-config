@@ -1,0 +1,64 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/biellls/Development/Clojure/" . "Scripts/")
+ ("/Users/biellls/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/biellls/Development/Clojure/Scripts/"
+ "/Users/biellls/Development/Clojure/nfa/src/nfa/"
+ "/Users/biellls/Development/Clojure/first_follow/src/first_follow/"
+ "/Users/biellls/Development/Clojure/bouncing_ball/src/bouncing_ball/"
+ "/Users/biellls/Development/Clojure/bouncing_ball/"
+ "/Users/biellls/Development/Python/"
+ "/Users/biellls/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "caesar.clj"
+ "view_nfa.clj"
+ "core.clj"
+ "first.clj"
+ "first_follow.clj"
+ "physics.clj"
+ "project.clj"
+ "shapes.clj"
+ "recursive_descent.py"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/biellls/Development/Compiladors/bada/src/" (21711 13022 0 0) "sintactic1.y~" "semantica.ads" "semantica.adb" "rutines_lexiques.ads" "rutines_lexiques.adb" "proves/" "program.txt" "makefile" "main.adb" "decls_generals.ads" "d_tsimbols.ads" "d_tsimbols.adb" "d_token.ads" "d_tnoms.ads" "d_tnoms.adb" "d_node.ads" "d_descripcio.ads" "d_atribut.ads" "d_arbre.ads" "analisi.ads" "analisi.adb" "an_sintactic_tokens.ads" "an_sintactic_shift_reduce.ads" "an_sintactic_goto.ads" "an_sintactic.y" "an_sintactic.verbose" "an_sintactic.ads" "an_sintactic.adb" "a_lexic_io.ads" "a_lexic_io.adb" "a_lexic_dfa.ads" "a_lexic_dfa.adb" "a_lexic.l~" "a_lexic.l" "a_lexic.ads" "a_lexic.adb" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/Scripts/" (21702 22393 0 0) "scr1.clj" "nfa.clj" "first_follow.clj" "caesar.clj" "analisi_descendent_iteratiu.clj" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/" (21701 1945 0 0) "Scripts/" "nfa/" "joc-de-truc/" "hello-quil/" "first_follow/" "bouncing_ball/" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/nfa/" (21701 15840 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/nfa/src/" (21701 1972 0 0) "nfa/" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/nfa/src/nfa/" (21701 20662 0 0) "view_nfa.clj" "core.clj" ".DS_Store" ".#core.clj" "#core.clj#" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/first_follow/src/first_follow/" (21698 44643 0 0) "gram.clj" "follow.clj" "first.clj" "core.clj" ".DS_Store" ".#gram.clj" "#gram.clj#" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/bouncing_ball/src/bouncing_ball/" (21694 44805 0 0) "shapes.clj" "physics.clj" "core.clj" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/bouncing_ball/" (21692 57824 0 0) "target/" "src/" "README.md" "project.clj" "LICENSE" ".nrepl-port" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/bouncing_ball/src/" (21692 55964 0 0) "bouncing_ball/" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Python/" (21691 41016 0 0) "recursive_descent.py" "hi.py" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/.emacs.d/" (21690 5048 0 0) "vendor/" "user.el" "themes/" "tar.sh" "starter-kit.el" "starter-kit-pkg.el" "starter-kit-misc.el" "starter-kit-defuns.el" "session.10c81c78d08a77485f141980062780151100000027200047" "session.106e584d32f64b7a30141564904273622300000025140043" "session.106e27d1e63117fabb141798918821004000000045800043" "recentf" "README.markdown" "places" "modules/" "init.el" "evil-surround.el" "eshell/" "elpa/" "COPYING" "cider-history" "changelog.md" "backups/" "auto-save-list/" "ac-comphist.dat" ".smex-items" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/biellls/" (21690 4993 0 0) "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "Development/" "Desktop/" ".viminfo" ".Trash/" ".m2/" ".lein/" ".emacs.d/" ".DS_Store" ".CFUserTextEncoding" ".bash_history" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
