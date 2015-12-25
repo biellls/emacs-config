@@ -2,48 +2,255 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/Users/biellls/Development/Clojure/" . "Scripts/")
- ("/Users/biellls/" . ".emacs.d/")
+ ("/Users/biellls/Development/Clojure/webfront_lavanderia/src/" . "webfront_lavanderia/")
+ ("/Users/biellls/Development/Clojure/webfront_lavanderia/" . "src/")
+ ("/Users/biellls/Development/Clojure/webapi_lavanderia/src/" . "webapi_lavanderia/")
+ ("/Users/biellls/Development/Clojure/webapi_lavanderia/" . "src/")
+ ("/Users/biellls/Development/Clojure/lavanderia/test/" . "lavanderia/")
+ ("/Users/biellls/Development/Clojure/lavanderia/src/" . "lavanderia/")
+ ("/Users/biellls/Development/Clojure/lavanderia/" . "src/")
+ ("/Users/biellls/Development/Clojure/hello_world/src/" . "hello_world/")
+ ("/Users/biellls/Development/Clojure/hello_world/" . "src/")
+ ("/Users/biellls/Development/Clojure/concurrency/src/" . "concurrency/")
+ ("/Users/biellls/Development/Clojure/concurrency/" . "src/")
+ ("/Users/biellls/Development/" . "Clojure/")
+ ("/Users/biellls/Development/Clojure/scheme_evaluator/test/" . "scheme_evaluator/")
+ ("/Users/biellls/Development/Clojure/scheme_evaluator/" . "test/")
+ ("/Users/biellls/Development/Clojure/studsmart/resources/public/" . "css/")
+ ("/Users/biellls/Development/Clojure/studsmart/resources/" . "public/")
+ ("/Users/biellls/Development/Clojure/studsmart/" . "resources/")
+ ("/Users/biellls/Development/Clojure/studsmart/src/studsmart/" . "views/")
+ ("/Users/biellls/Development/Clojure/hack_this_site/src/hack_this_site/" . "programming_missions/")
+ ("/Users/biellls/Development/Clojure/hack_this_site/src/" . "lib/")
+ ("/Users/biellls/Development/Clojure/hack_this_site/" . "src/")
+ ("/Users/biellls/Development/Clojure/shouter/src/shouter/" . "models/")
+ ("/Users/biellls/Development/HTML/Website1/" . "js/")
+ ("/Users/biellls/Development/Compiladors/bada/" . "AFLEXNAT/")
+ ("/Users/biellls/Development/Clojure/" . "concurrency/")
+ ("/Users/biellls/" . "Desktop/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/biellls/Development/Clojure/Scripts/"
+ "/Users/biellls/Development/Clojure/sistemes-inteligents-opcional/src/sistemes_inteligents_opcional/"
  "/Users/biellls/Development/Clojure/nfa/src/nfa/"
+ "/Users/biellls/Development/Clojure/data_mining/src/data_mining/"
+ "/Users/biellls/Development/C/CHIP8_emu/src/"
+ "/Users/biellls/Development/Clojure/concurrency/src/concurrency/"
+ "/Users/biellls/Downloads/SI/Practica 2 - Mundo del monstruo/02MundoMonstruo/MundoMonstruo/"
+ "/Users/biellls/Development/Clojure/travelling-salesman/"
+ "/Users/biellls/Development/Clojure/Scripts/"
+ "/Users/biellls/Langs/pixie/examples/"
+ "/Users/biellls/Desktop/"
+ "/Users/biellls/"
+ "/Users/biellls/Development/Clojure/webfront_lavanderia/src-cljs/webfront_lavanderia/"
+ "/Users/biellls/Development/Clojure/webfront_lavanderia/src/webfront_lavanderia/"
+ "/Users/biellls/Development/Clojure/webapi_lavanderia/src/webapi_lavanderia/"
+ "/Users/biellls/Development/Clojure/lavanderia/src/lavanderia/"
+ "/Users/biellls/Development/Clojure/lavanderia/test/lavanderia/"
+ "/Users/biellls/Development/Clojure/studsmart/src/studsmart/views/"
+ "/Users/biellls/Development/Clojure/hello_world/src/hello_world/"
+ "/Users/biellls/Development/Clojure/hello_world/"
+ "/Users/biellls/Development/Clojure/hello_world/out/"
+ "/Users/biellls/Development/Clojure/joc-de-truc/src/truc_gui/"
+ "/Users/biellls/Development/Clojure/scheme_evaluator/test/scheme_evaluator/"
+ "/Users/biellls/Development/Clojure/scheme_evaluator/src/scheme_evaluator/"
+ "/Users/biellls/Development/C/CHIP8_emu/"
+ "/Users/biellls/Development/Compiladors/bada/src/"
+ "/Users/biellls/Development/Clojure/studsmart/resources/public/css/"
+ "/Users/biellls/Development/Clojure/studsmart/"
+ "/Users/biellls/Development/Clojure/studsmart/src/studsmart/routes/"
+ "/Users/biellls/Development/Clojure/studsmart/src/studsmart/"
+ "/Users/biellls/Development/Clojure/hack_this_site/src/lib/"
+ "/Users/biellls/Development/Clojure/hack_this_site/"
+ "/Users/biellls/Development/Clojure/hack_this_site/src/hack_this_site/programming_missions/"
+ "/Users/biellls/Development/Clojure/hack_this_site/src/hack_this_site/"
+ "/Users/biellls/Development/Clojure/shouter/src/shouter/views/"
+ "/Users/biellls/Development/Clojure/shouter/src/shouter/"
+ "/Users/biellls/Development/Clojure/shouter/src/shouter/models/"
+ "/Users/biellls/Development/Clojure/shouter/src/shouter/controllers/"
+ "/Users/biellls/Development/Clojure/shouter/"
+ "/Users/biellls/Development/Clojure/hello_web/src/hello_web/"
+ "/Users/biellls/Development/Clojure/gen_codi_int/src/gen_codi_int/"
+ "/Users/biellls/Development/HTML/Website1/js/"
+ "/Users/biellls/Development/HTML/Website1/css/"
+ "/Users/biellls/Development/Clojure/rpn-calc/src/rpn-calc/"
+ "/Users/biellls/Development/Schemey/"
+ "/Users/biellls/Development/Clojure/search-algorithms/src/search_algorithms/"
+ "/Users/biellls/Development/Compiladors/bada/AFLEXNAT/"
  "/Users/biellls/Development/Clojure/first_follow/src/first_follow/"
  "/Users/biellls/Development/Clojure/bouncing_ball/src/bouncing_ball/"
  "/Users/biellls/Development/Clojure/bouncing_ball/"
  "/Users/biellls/Development/Python/"
- "/Users/biellls/.emacs.d/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "caesar.clj"
+ "my_proxy_table.clj"
+ "my-proxy-table.clj"
+ "my-proxy-table-model.clj"
  "view_nfa.clj"
- "core.clj"
- "first.clj"
- "first_follow.clj"
- "physics.clj"
- "project.clj"
- "shapes.clj"
- "recursive_descent.py"
- "init.el"
+ "twitter.clj"
+ "chip8.c"
+ "dining_philosophers.clj"
+ "Agente.cs"
+ "Form1.cs"
+ "MainProgram.cs"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/biellls/Development/Compiladors/bada/src/" (21711 13022 0 0) "sintactic1.y~" "semantica.ads" "semantica.adb" "rutines_lexiques.ads" "rutines_lexiques.adb" "proves/" "program.txt" "makefile" "main.adb" "decls_generals.ads" "d_tsimbols.ads" "d_tsimbols.adb" "d_token.ads" "d_tnoms.ads" "d_tnoms.adb" "d_node.ads" "d_descripcio.ads" "d_atribut.ads" "d_arbre.ads" "analisi.ads" "analisi.adb" "an_sintactic_tokens.ads" "an_sintactic_shift_reduce.ads" "an_sintactic_goto.ads" "an_sintactic.y" "an_sintactic.verbose" "an_sintactic.ads" "an_sintactic.adb" "a_lexic_io.ads" "a_lexic_io.adb" "a_lexic_dfa.ads" "a_lexic_dfa.adb" "a_lexic.l~" "a_lexic.l" "a_lexic.ads" "a_lexic.adb" "../" "./")
+ ("/Users/biellls/Development/Clojure/sistemes-inteligents-opcional/src/sistemes_inteligents_opcional/" (22137 38332 0 0) "my_proxy_table.clj" "core.clj" "../" "./")
 
- ("/Users/biellls/Development/Clojure/Scripts/" (21702 22393 0 0) "scr1.clj" "nfa.clj" "first_follow.clj" "caesar.clj" "analisi_descendent_iteratiu.clj" ".DS_Store" "../" "./")
+ ("/Users/biellls/Development/Clojure/nfa/src/nfa/" (21704 767 0 0) "view_nfa.clj" "core.clj" ".DS_Store" "../" "./")
 
- ("/Users/biellls/Development/Clojure/" (21701 1945 0 0) "Scripts/" "nfa/" "joc-de-truc/" "hello-quil/" "first_follow/" "bouncing_ball/" ".DS_Store" "../" "./")
+ ("/Users/biellls/Development/Clojure/data_mining/src/data_mining/" (22121 55317 0 0) "core.clj" "../" "./")
+
+ ("/Users/biellls/Development/C/CHIP8_emu/src/" (21925 13462 0 0) "test1.dSYM/" "test1.c" "ROMS/" "prueba.asm" "program1" "mochi8-asm-64bit-20141130122858.jar" "makefile" "main.o" "main.dSYM/" "main.c" "main" "keyboardLayout1.h" "keyboardLayout1.c" "fontset.h" "fontset.c" "chip8.o" "chip8.h" "chip8.c" ".DS_Store" "#etapa2.c#" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/concurrency/src/concurrency/" (21957 58767 0 0) "dining_philosophers.clj" "core.clj" "#dining_philosophers.clj#" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/concurrency/" (21957 58287 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "concurrency.iml" ".idea/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/" (22103 29381 0 0) "webfront_lavanderia/" "webapi_lavanderia/" "travelling-salesman/" "studsmart2/" "studsmart/" "shouter/" "search-algorithms/" "Scripts/" "scraping/" "scheme_evaluator/" "rpn-calc/" "nfa/" "lavanderia/" "joc-de-truc/" "incanter-tests/" "helloreagent/" "hello-quil/" "hack_this_site/" "gen_codi_int/" "concurrency/" "bouncing_ball/" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/scraping/" (22115 3207 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/scraping/src/" (21929 23916 0 0) "scraping/" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/scraping/src/scraping/" (22115 21275 0 0) "core.clj" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Downloads/SI/Practica 2 - Mundo del monstruo/02MundoMonstruo/MundoMonstruo/" (22109 60105 0 0) "Tablero.cs" "Resources/" "Properties/" "obj/" "MundoMonstruo.csproj" "MainProgram.cs" "Form1.resx" "Form1.designer.cs" "Form1.cs" "Excepcion.cs" "Casilla.cs" "bin/" "Agente.cs" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/travelling-salesman/" (22103 29381 0 0) "test/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/travelling-salesman/src/" (22103 29381 0 0) "travelling_salesman/" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/travelling-salesman/src/travelling_salesman/" (22103 29381 0 0) "core.clj" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/Scripts/" (22085 54501 0 0) "vigenere.clj" "scr1.clj" "nfa.clj" "gridcypher.clj" "futures.clj" "first_follow.clj" "euclideand_calc.clj" "caesar.clj" "analisi_descendent_iteratiu.clj" "algorithms.clj" ".DS_Store" ".#algorithms.clj" "#dining_philosophers.clj#" "#algorithms.clj#" "../" "./")
+
+ ("/Users/biellls/Langs/pixie/examples/" (22084 65206 0 0) "tty-io-test.pxi" "mu-kanren.pxi" "mandelbrot.pxi" "hello-world2.pxi" "hello-world.pxi" "gen-docs.pxi" "../" "./")
+
+ ("/Users/biellls/Desktop/" (22079 35613 0 0) "WirelessDiagnostics-C02NM0L6G3QR-20151106185927.tar.gz" "TablasAnalisisDeContexto.pdf" "Tablas pantallas de muestra.xlsx" "MyPlayground.playground/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/" (22080 33756 0 0) "VirtualBox VMs/" "UnityProjects/" "rect4142.png" "rect4140.png" "rect4138.png" "Public/" "Pictures/" "Pantalla3Busqueda.ep" "Pantalla2Login.ep" "Pantalla1Inicio.ep" "Notas2011A.txt" "Music/" "Movies/" "Library/" "IdeaProjects/" "EleccionesTaller2.Rmd" "Ejercicios_R_Tema_8.html" "Ejercicios_R_Tema_6.html" "Ejercicios_R_Tema_4.html" "Ejercicios_R_Tema_3.html" "Ejercicios_R_Tema_10_y_11.html" "Ejercicios_R_Tema_10 y 11.html" "Ejercicios R Tema 8.Rmd" "Ejercicios R Tema 6.Rmd" "Ejercicios R Tema 4.Rmd" "Ejercicios R Tema 3.Rmd" "Ejercicios R Tema 10.Rmd" "Ejercicios R Tema 10 y 11.Rmd" "Downloads/" "Documents/" "Development/" "Desktop/" "Applications/" "Actividad_3.pdf" "Actividad_3.html" "Actividad 3.Rmd" ".Xauthority" ".wapi/" ".viminfo" ".Trash/" ".subversion/" ".saves/" ".RubyMine70/" ".rstudio-desktop/" ".rnd" ".Rhistory" ".RData" ".PyCharm40/" ".psql_history" ".netrc" ".mongorc.js" ".matplotlib/" ".m2/" ".local/" ".lein1/" ".lein/" ".java_history" ".idlerc/" ".IdeaIC14/" ".heroku/" ".gnome2/" ".ghc/" ".gem/" ".emacs.d/" ".DS_Store" ".dbshell" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".bashrc" ".bash_profile_common" ".bash_profile" ".bash_history" ".appletviewer" ".android/" "#1.org#" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/webfront_lavanderia/src-cljs/webfront_lavanderia/" (22005 19061 0 0) "core.cljs" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/webfront_lavanderia/src/webfront_lavanderia/" (22005 13122 0 0) "routes/" "middleware.clj" "layout.clj" "handler.clj" "core.clj" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/webfront_lavanderia/src/" (22003 64603 0 0) "webfront_lavanderia/" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/webfront_lavanderia/" (22004 28702 0 0) "webfront_lavanderia.iml" "test/" "target/" "src-cljs/" "src/" "resources/" "README.md" "project.clj" "profiles.clj" "Procfile" "figwheel_server.log" "env/" ".lein-env" ".idea/" ".gitignore" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/webapi_lavanderia/" (22004 34493 0 0) "webapi_lavanderia.iml" "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".lein-repl-history" ".idea/" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/webapi_lavanderia/src/webapi_lavanderia/" (22004 36295 0 0) "simulacion.clj" "lavanderia.clj" "core.clj" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/webapi_lavanderia/src/" (21997 40467 0 0) "webapi_lavanderia/" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/lavanderia/" (21996 36429 0 0) "tiempos.txt" "test/" "target/" "src/" "README.md" "project.clj" "LICENSE" "lavanderia.iml" ".nrepl-port" ".lein-repl-history" ".lein-failures" ".idea/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/lavanderia/src/lavanderia/" (21996 10027 0 0) "simulacion.clj" "logLavanderia.txt" "lavanderia.clj" "core.clj" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/lavanderia/test/lavanderia/" (21984 46082 0 0) "lavanderia_test.clj" "core_test.clj" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/lavanderia/test/" (21981 64267 0 0) "lavanderia/" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/lavanderia/src/" (21981 61624 0 0) "lavanderia/" "../" "./")
+
+ ("/Users/biellls/Development/Python/" (21977 62620 0 0) "recursive_descent.py" "hw31.py" "hi.py" "dom.py" "avl_tree.py" ".DS_Store" ".#hw31.py" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/studsmart/src/studsmart/views/" (21970 11832 0 0) "reservas.clj" "homepage.clj" "common.clj" ".#reservas.clj" "#reservas.clj#" "#common.clj#" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/hello_world/" (21967 46430 0 0) "watch.clj" "src/" "repl.clj" "out/" "index.html" "cljs.jar" "build.clj" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/hello_world/src/hello_world/" (21967 41923 0 0) "core.cljs" "build.clj" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/hello_world/out/" (21967 37992 0 0) "main.js" "hello_world/" "goog/" "cljs/" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/hello_world/src/" (21967 37721 0 0) "hello_world/" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/studsmart/resources/public/css/" (21964 54171 0 0) "screen.css" "homepage.css" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/joc-de-truc/src/truc_gui/" (21962 22772 0 0) "truc.clj" "table.clj" "resources/" "player.clj" "judge.clj" "hand.clj" "drawing.clj" "deck.clj" "core.clj" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/concurrency/src/" (21957 44865 0 0) "concurrency/" "../" "./")
+
+ ("/Users/biellls/Development/" (21913 26075 0 0) "Schemey/" "Rust/" "Ruby/" "Python/" "Java/" "Haskell/" "Compiladors/" "Clojure/" "C/" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/scheme_evaluator/test/scheme_evaluator/" (21913 24900 0 0) "syntax_test.clj" "syntactic_sugar_test.clj" "core_test.clj" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/scheme_evaluator/test/" (21910 49147 0 0) "scheme_evaluator/" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/scheme_evaluator/" (21931 28787 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".lein-failures" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/scheme_evaluator/src/scheme_evaluator/" (21931 33297 0 0) "tagging.clj" "syntax.clj" "syntactic_sugar.clj" "primitives.clj" "data_structures.clj" "core.clj" ".DS_Store" "#primitives.clj#" "../" "./")
+
+ ("/Users/biellls/Development/C/CHIP8_emu/" (21913 27524 0 0) "chip8.h" "chip8.c" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/scheme_evaluator/src/" (21909 33600 0 0) "scheme_evaluator/" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Compiladors/bada/src/" (21904 25182 0 0) "temperatures.s" "temperatures.log" "temperatures.c3as" "temperatures.c3a" "temperatures.bda" "temperatures" "sintactic1.y~" "semantica.o" "semantica.ali" "semantica.ads" "semantica.adb" "semantica-missatges.o" "semantica-missatges.ali" "semantica-missatges.ads" "semantica-missatges.adb" "semantica-gcodi_int.o" "semantica-gcodi_int.ali" "semantica-gcodi_int.ads" "semantica-gcodi_int.adb" "semantica-gcodi_ass.o" "semantica-gcodi_ass.ali" "semantica-gcodi_ass.ads" "semantica-gcodi_ass.adb" "semantica-ctipus.o" "semantica-ctipus.ali" "semantica-ctipus.ads" "semantica-ctipus.adb" "semantica-c_arbre.o" "semantica-c_arbre.ali" "semantica-c_arbre.ads" "semantica-c_arbre.adb" "proves/" "program2.txt" "program2.s" "program2.log" "program2.c3as" "program2.c3a" "program2" "program.txt" "program.s" "program.log" "program.c3as" "program.c3a" "pesos.s" "pesos.log" "pesos.c3as" "pesos.c3a" "pesos.bda" "pesos" "mcd.s" "mcd.log" "mcd.c3as" "mcd.c3a" "mcd.bda" "mcd" "makefile" "main.o" "main.ali" "main.adb" "main" "io/" "helloWorld.s" "helloWorld.log" "helloWorld.c3as" "helloWorld.c3a" "helloWorld.bda" "helloWorld" "gcb" "factorial.s" "factorial.log" "factorial.c3as" "factorial.c3a" "factorial.bda" "factorial" "decls_generals.o" "decls_generals.ali" "decls_generals.ads" "d_tsimbols.o" "d_tsimbols.ali" "d_tsimbols.ads" "d_tsimbols.adb" "d_token.ads" "d_tnoms.o" "d_tnoms.ali" "d_tnoms.ads" "d_tnoms.adb" "d_pila.o" "d_pila.ali" "d_pila.ads" "d_pila.adb" "d_gcodi_int.o" "d_gcodi_int.ali" "d_gcodi_int.ads" "d_descripcio.o" "d_descripcio.ali" "d_descripcio.ads" "d_c3a.o" "d_c3a.ali" "d_c3a.ads" "d_c3a.adb" "d_arbre.o" "d_arbre.ali" "d_arbre.ads" "cint.c3as" "cint.c3a" "an_sintactica_tokens.o" "an_sintactica_tokens.ali" "an_sintactica_tokens.ads" "an_sintactica_shift_reduce.o" "an_sintactica_shift_reduce.ali" "an_sintactica_shift_reduce.ads" "an_sintactica_goto.o" "an_sintactica_goto.ali" "an_sintactica_goto.ads" "an_sintactica.y" "an_sintactica.verbose" "an_sintactica.o" "an_sintactica.ali" "an_sintactica.ads" "an_sintactica.adb" "an_lexica_io.o" "an_lexica_io.ali" "an_lexica_io.ads" "an_lexica_io.adb" "an_lexica_dfa.o" "an_lexica_dfa.ali" "an_lexica_dfa.ads" "an_lexica_dfa.adb" "an_lexica.o" "an_lexica.l" "an_lexica.ali" "an_lexica.ads" "an_lexica.adb" ".DS_Store" "#proves_tsimbols.adb#" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/studsmart/resources/public/" (21895 52117 0 0) "js/" "img/" "css/" "bootstrap/" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/studsmart/resources/" (21895 4304 0 0) "templates/" "sql/" "public/" "docs/" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/studsmart/" (21897 19072 0 0) "test/" "target/" "studsmart.log" "src/" "resources/" "README.md" "project.clj" "Procfile" "migrations/" ".nrepl-port" ".lein-env" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/studsmart/src/studsmart/" (21897 19266 0 0) "views/" "session.clj" "routes/" "models/" "middleware.clj" "layout.clj" "handler.clj" "db/" "core.clj" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/studsmart/src/" (21895 4304 0 0) "studsmart/" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/studsmart/src/studsmart/routes/" (21895 9932 0 0) "home.clj" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/hack_this_site/src/lib/" (21892 10092 0 0) "hts_connect.clj" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/hack_this_site/src/" (21892 9972 0 0) "lib/" "hack_this_site/" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/hack_this_site/src/hack_this_site/programming_missions/" (21892 7354 0 0) "prog11.clj" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/hack_this_site/" (21892 4489 0 0) "test/" "target/" "src/" "solve_problem.html" "response.html" "resources/" "README.md" "project.clj" "login_result.html" "LICENSE" "doc/" ".nrepl-port" ".gitignore" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/hack_this_site/src/hack_this_site/" (21891 63430 0 0) "programming_missions/" "core.clj" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/shouter/src/shouter/" (21885 56597 0 0) "web.clj" "views/" "models/" "core.clj" "controllers/" ".DS_Store" ".#core.clj" "#core.clj#" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/shouter/" (21883 15504 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "pg/" "LICENSE" "doc/" ".nrepl-port" ".lein-repl-history" ".gitignore" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/shouter/src/shouter/models/" (21885 42209 0 0) "shout.clj" "migration.clj" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/shouter/src/shouter/views/" (21885 41801 0 0) "shouts.clj" "layout.clj" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/shouter/src/shouter/controllers/" (21885 34315 0 0) "shouts.clj" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/shouter/src/" (21883 13291 0 0) "shouter/" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/hello_web/src/hello_web/" (21883 9156 0 0) "session.clj" "routes/" "middleware.clj" "layout.clj" "handler.clj" "core.clj" ".#core.clj" "#core.clj#" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/gen_codi_int/src/gen_codi_int/" (21799 40565 0 0) "d_c3a.clj" "core.clj" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/HTML/Website1/js/" (21841 62986 0 0) "vendor/" "plugins.js" "main.js" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/HTML/Website1/" (21841 62946 0 0) "tile.png" "tile-wide.png" "robots.txt" "LICENSE.txt" "js/" "index.html" "img/" "humans.txt" "favicon.ico" "doc/" "css/" "crossdomain.xml" "browserconfig.xml" "apple-touch-icon.png" "404.html" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/HTML/Website1/css/" (21841 62648 0 0) "normalize.css" "main.css" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/rpn-calc/src/rpn-calc/" (21825 59799 0 0) "rpm-sim.clj" "core.clj" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Schemey/" (21798 14332 0 0) "lexical.h" "lexical.c" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Clojure/search-algorithms/src/search_algorithms/" (21772 720 0 0) "greedy.clj" "core.clj" "a_star.clj" ".DS_Store" "../" "./")
+
+ ("/Users/biellls/Development/Compiladors/bada/AFLEXNAT/" (21711 13022 0 0) "yylex.adb" "vstrings.o" "vstrings.ali" "vstrings.ads" "vstrings.adb" "tstring.o" "tstring.ali" "tstring.ads" "template_manager.o" "template_manager.ali" "template_manager.ads" "template_manager.adb" "tblcmp.o" "tblcmp.ali" "tblcmp.ads" "tblcmp.adb" "sym.o" "sym.ali" "sym.ads" "sym.adb" "skeleton_manager.o" "skeleton_manager.ali" "skeleton_manager.ads" "skeleton_manager.adb" "scanner.o" "scanner.ali" "scanner.ads" "scanner.adb" "parser.o" "parser.ali" "parser.ads" "parser.adb" "parse_tokens.o" "parse_tokens.ali" "parse_tokens.ads" "parse_shift_reduce.o" "parse_shift_reduce.ali" "parse_shift_reduce.ads" "parse_goto.o" "parse_goto.ali" "parse_goto.ads" "nfa.o" "nfa.ali" "nfa.ads" "nfa.adb" "misc_defs.o" "misc_defs.ali" "misc_defs.ads" "misc_defs.adb" "misc.o" "misc.ali" "misc.ads" "misc.adb" "main_body.o" "main_body.ali" "main_body.ads" "main_body.adb" "int_io.o" "int_io.ali" "int_io.ads" "gen.o" "gen.ali" "gen.ads" "gen.adb" "file_string.o" "file_string.ali" "file_string.ads" "external_file_manager.o" "external_file_manager.ali" "external_file_manager.ads" "external_file_manager.adb" "ecs.o" "ecs.ali" "ecs.ads" "ecs.adb" "dfa.o" "dfa.ali" "dfa.ads" "dfa.adb" "command_line_interface.o" "command_line_interface.ali" "command_line_interface.ads" "command_line_interface.adb" "ccl.o" "ccl.ali" "ccl.ads" "ccl.adb" "ascan_io.o" "ascan_io.ali" "ascan_io.ads" "ascan_io.adb" "ascan_dfa.o" "ascan_dfa.ali" "ascan_dfa.ads" "ascan_dfa.adb" "aflex_scanner.o" "aflex_scanner.ali" "aflex_scanner.ads" "aflex_scanner.adb" "aflex.o" "aflex.ali" "aflex.adb" "aflex" "../" "./")
+
+ ("/Users/biellls/Development/Compiladors/bada/" (21711 18994 0 0) "tmpact.miq" "src/" "README.md" "obj/" "deffile.miq" "bada.gpr" "AYACCNAT/" "AFLEXNAT/" "aflex_yy.a" ".git/" "../" "./")
 
  ("/Users/biellls/Development/Clojure/nfa/" (21701 15840 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".nrepl-port" ".gitignore" ".DS_Store" "../" "./")
 
  ("/Users/biellls/Development/Clojure/nfa/src/" (21701 1972 0 0) "nfa/" ".DS_Store" "../" "./")
-
- ("/Users/biellls/Development/Clojure/nfa/src/nfa/" (21701 20662 0 0) "view_nfa.clj" "core.clj" ".DS_Store" ".#core.clj" "#core.clj#" "../" "./")
 
  ("/Users/biellls/Development/Clojure/first_follow/src/first_follow/" (21698 44643 0 0) "gram.clj" "follow.clj" "first.clj" "core.clj" ".DS_Store" ".#gram.clj" "#gram.clj#" "../" "./")
 
@@ -53,11 +260,7 @@
 
  ("/Users/biellls/Development/Clojure/bouncing_ball/src/" (21692 55964 0 0) "bouncing_ball/" ".DS_Store" "../" "./")
 
- ("/Users/biellls/Development/Python/" (21691 41016 0 0) "recursive_descent.py" "hi.py" ".DS_Store" "../" "./")
-
  ("/Users/biellls/.emacs.d/" (21690 5048 0 0) "vendor/" "user.el" "themes/" "tar.sh" "starter-kit.el" "starter-kit-pkg.el" "starter-kit-misc.el" "starter-kit-defuns.el" "session.10c81c78d08a77485f141980062780151100000027200047" "session.106e584d32f64b7a30141564904273622300000025140043" "session.106e27d1e63117fabb141798918821004000000045800043" "recentf" "README.markdown" "places" "modules/" "init.el" "evil-surround.el" "eshell/" "elpa/" "COPYING" "cider-history" "changelog.md" "backups/" "auto-save-list/" "ac-comphist.dat" ".smex-items" ".gitignore" ".git/" "../" "./")
-
- ("/Users/biellls/" (21690 4993 0 0) "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "Development/" "Desktop/" ".viminfo" ".Trash/" ".m2/" ".lein/" ".emacs.d/" ".DS_Store" ".CFUserTextEncoding" ".bash_history" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----
